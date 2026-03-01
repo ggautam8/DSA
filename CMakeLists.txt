@@ -3,6 +3,8 @@ project(DSA C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(DSA main.c Lists/first.c
+add_executable(DSA main.c
         PracticeC/hello.c
-        PracticeC/tp.c)
+        PracticeC/tp.c
+        PracticeC/dsaCalc.c
+        Lists/Insert.c)
