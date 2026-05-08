@@ -13,4 +13,10 @@ add_executable(DSA main.c
         PracticeC/PointersPrac/q2.c
         PracticeC/PatternsPrac/q1.c
         PracticeC/PatternsPrac/q2.c
+        PracticeC/PatternsPrac/q3.c
+        PracticeC/PatternsPrac/q4.c
+        PracticeC/PatternsPrac/q5.c
+        PracticeC/PatternsPrac/q6.c
+        PracticeC/PatternsPrac/q7.c
+        PracticeC/PatternsPrac/q8.c
 )
