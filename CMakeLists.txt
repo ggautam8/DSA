@@ -19,4 +19,5 @@ add_executable(DSA main.c
         PracticeC/PatternsPrac/q6.c
         PracticeC/PatternsPrac/q7.c
         PracticeC/PatternsPrac/q8.c
+        PracticeC/PatternsPrac/q9.c
 )
