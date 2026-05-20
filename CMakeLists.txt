@@ -33,4 +33,22 @@ add_executable(DSA main.c
         PracticeC/PatternsPrac/q20.c
         PracticeC/PatternsPrac/q21.c
         PracticeC/PatternsPrac/q22.c
+        PracticeC/KnowYourMaths/q1.c
+        PracticeC/KnowYourMaths/q2.c
+        PracticeC/KnowYourMaths/q3.c
+        PracticeC/KnowYourMaths/q4.c
+        PracticeC/KnowYourMaths/q5.c
+        PracticeC/KnowYourMaths/q6.c
+        PracticeC/KnowYourMaths/q7.c
+        PracticeC/BasicRecursion/q1.c
+        PracticeC/BasicRecursion/q3.c
+        PracticeC/BasicRecursion/q4.c
+        PracticeC/BasicRecursion/q5.c
+        PracticeC/BasicRecursion/q6.c
+        PracticeC/BasicRecursion/q7.c
+        PracticeC/BasicRecursion/q8.c
+        PracticeC/BasicRecursion/q9.c
+        PracticeC/Hashing/basic.c
+        "PracticeC/Hashing/basic(findMax).c"
+        "PracticeC/Hashing/basic(stringInput).c"
 )
