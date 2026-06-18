@@ -6,9 +6,10 @@
   <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
   <component name="CidrRootsConfiguration">
     <sourceRoots>
+      <file path="$PROJECT_DIR$/LeetcodeContests" />
       <file path="$PROJECT_DIR$/LinkedList" />
       <file path="$PROJECT_DIR$/Lists" />
-      <file path="$PROJECT_DIR$/PracticeC" />
+      <file path="$PROJECT_DIR$/Striver" />
     </sourceRoots>
   </component>
 </project>
