@@ -7,7 +7,7 @@ int main() {
     scanf("%d", &n);
 
     int arr[n], arr2[q];
-    printf("Enter elements in ascending form: \n");
+    printf("Enter elements in sorted order: \n");
     for (int i = 0; i < n; i++) {
         printf("arr[%d]: ", i);
         scanf("%d", &arr[i]);
